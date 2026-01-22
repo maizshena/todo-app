@@ -48,9 +48,13 @@ All tasks are saved locally on your device using AsyncStorage. The data persists
 
 ## Screenshots
 
-<img src="image1.jpg" alt="" width="100">
-<img src="image2.jpg" alt="" width="100">
-<img src="image3.jpg" alt="" width="100">
-<img src="image4.jpg" alt="" width="100">
-
-[Add your app screenshots here]
+<table>
+  <tr>
+    <td align="center"><img src="image1.jpg" width="400"></td>
+    <td align="center"><img src="image2.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="image3.jpg" width="400"></td>
+    <td align="center"><img src="image4.jpg" width="400"></td>
+  </tr>
+</table>
