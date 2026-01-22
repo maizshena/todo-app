@@ -50,9 +50,9 @@ All tasks are saved locally on your device using AsyncStorage. The data persists
 
 <table>
   <tr>
-    <td align="center"><img src="image1.jpg" width="100"></td>
-    <td align="center"><img src="image2.jpg" width="100"></td>
-    <td align="center"><img src="image3.jpg" width="100"></td>
-    <td align="center"><img src="image4.jpg" width="100"></td>
+    <td align="center"><img src="image1.jpg" width="200"></td>
+    <td align="center"><img src="image2.jpg" width="200"></td>
+    <td align="center"><img src="image3.jpg" width="200"></td>
+    <td align="center"><img src="image4.jpg" width="200"></td>
   </tr>
 </table>
